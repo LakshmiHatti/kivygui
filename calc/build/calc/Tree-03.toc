@@ -1,0 +1,7 @@
+('C:\\Users\\lenovo\\Desktop\\Python_course_gptl\\kivygui\\kivy_env\\share\\glew\\bin',
+ None,
+ [],
+ 'DATA',
+ [('glew32.dll',
+   'C:\\Users\\lenovo\\Desktop\\Python_course_gptl\\kivygui\\kivy_env\\share\\glew\\bin\\glew32.dll',
+   'DATA')])

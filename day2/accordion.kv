@@ -1,0 +1,30 @@
+<MyLayout>
+	BoxLayout:
+		orientation: "vertical"
+		size: root.width, root.height
+		
+		Accordion:
+			orientation: 'vertical'
+
+			AccordionItem:
+				title: "Panel 1"
+				Image:
+					source: 'b.png'
+			
+			AccordionItem:
+				title: "Panel 2"
+                Image:
+					source: 'b.png'
+				#Label:
+					#text: "Panel 2 Text"
+					#font_size: 32
+			AccordionItem:
+				title: "Panel 3"
+				Image:
+					source: 'b.png'
+
+			AccordionItem:
+				title: "Panel 4"
+				Label:
+					text: "Panel 4 Text"
+					font_size: 32		
